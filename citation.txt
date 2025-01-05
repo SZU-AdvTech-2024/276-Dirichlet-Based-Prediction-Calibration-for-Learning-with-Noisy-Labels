@@ -1,0 +1,12 @@
+@article{REPO276,
+    author = "Zong, Chen-Chen and Wang, Ye-Wen and Xie, Ming-Kun and Huang, Sheng-Jun",
+    doi = "10.1609/aaai.v38i15.29672",
+    journal = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    month = "Mar.",
+    number = "15",
+    pages = "17254-17262",
+    title = "{Dirichlet-Based Prediction Calibration for Learning with Noisy Labels}",
+    url = "https://ojs.aaai.org/index.php/AAAI/article/view/29672",
+    volume = "38",
+    year = "2024"
+}
