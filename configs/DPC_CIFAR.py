@@ -1,0 +1,26 @@
+algorithm = 'DPC'
+# dataset param
+dataset = 'cifar10'
+input_channel = 3
+num_classes = 10
+root = '/data/yfli/CIFAR10'
+noise_type = 'sym'
+percent = 0.4
+seed = 123
+model_name = 'DPC'
+# train param
+batch_size = 128
+num_workers = 5
+gpu = '0'
+lr = 0.02
+epochs = 300
+alpha = 4
+lambda_u = 0
+p_threshold = 0.5
+T = 0.5
+warmup_epoch = 30
+# For two-model algorithms
+model1_type = 'resnet50'
+model2_type = 'resnet50'
+method = 'selfsup'
+save_result = True
